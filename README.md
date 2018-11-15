@@ -2,7 +2,7 @@
 SAP HANA learning
 
 
-Download page for SAP HANA, express edition!
+1. Download page for SAP HANA, express edition!
 Get the Download Manager (DM) for SAP HANA 2.0, express edition below.
 Note: A Java Runtime Environment (JRE) is required . Download it from: https://tools.hana.ondemand.com/#cloud
 
@@ -22,7 +22,7 @@ Source: https://www.sap.com/cmp/ft/crm-xu16-dat-hddedft/typ.html
 
 
 
-SAP HANA XS Advanced, Connecting to SAP Web IDE and cloning a Git Repository to begin development
+2. SAP HANA XS Advanced, Connecting to SAP Web IDE and cloning a Git Repository to begin development
 https://developers.sap.com/tutorials/xsa-connecting-webide.html
 
 
