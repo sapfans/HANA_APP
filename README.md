@@ -21,7 +21,6 @@ Source: https://www.sap.com/cmp/ft/crm-xu16-dat-hddedft/typ.html
 
 
 
-
 2. SAP HANA XS Advanced, Connecting to SAP Web IDE and cloning a Git Repository to begin development
 https://developers.sap.com/tutorials/xsa-connecting-webide.html
 
