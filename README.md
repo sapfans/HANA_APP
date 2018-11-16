@@ -34,3 +34,7 @@ https://tools.hana.ondemand.com/#hanatools
 
 
 
+4. Eclipse IDE for Java Developers
+http://www.eclipse.org/downloads/packages/release/photon/r/eclipse-ide-java-developers
+
+
