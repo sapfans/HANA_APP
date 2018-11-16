@@ -25,3 +25,12 @@ Source: https://www.sap.com/cmp/ft/crm-xu16-dat-hddedft/typ.html
 https://developers.sap.com/tutorials/xsa-connecting-webide.html
 
 
+
+3. SAP HANA Client 2.0
+The SAP HANA Client provides a set of drivers that developers can use to connect client applications to SAP HANA. SAP HANA Client 2.0 drivers connect to SAP HANA 1.0 and SAP HANA 2.0 databases as described in SAP Note 1906576.
+
+Installation instructions are provided in the SAP HANA Client Installation and Update Guide, and programming information is provided in the SAP HANA Client Interface Programming Reference.
+https://tools.hana.ondemand.com/#hanatools
+
+
+
